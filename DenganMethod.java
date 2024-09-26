@@ -1,5 +1,4 @@
-public class ContohMethood {
-    public class DenganMethod {
+ public class DenganMethod {
         public static void main(String[] args) {
             int gajiPokok = 5000000;
             int tunjanganTransport = 500000;
@@ -34,4 +33,3 @@ public class ContohMethood {
             System.out.println("Gaji Bersih: " + gajiBersih);
         }
     }
-}
